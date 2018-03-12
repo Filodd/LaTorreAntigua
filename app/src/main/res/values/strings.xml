@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">La Torre Antigua</string>
+    <string name="businessDescription">La Torre Antigua is the ideal place to
+        spend an evening full of fun with friends! "\n" "\n"You will enjoy tasteful mexican specialities and dance until late while drinking lots
+        of sangria and South American beers! "\n"
+    </string>
+    <string name="booking">Book Your Table Now!</string>
+    <string name="contacts">Via Canaletto 16, 41030 Bastiglia (MO) ITALIA "\n" Tel. +39 059 904244
+        info@latorreantigua.it </string>
+    <string name="web">www.latorreantigua.it</string>
+
+</resources>
